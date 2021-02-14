@@ -8,6 +8,8 @@ http://51.159.4.21:3135/Cric/7/index.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | HINDI" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND TV FHD	
 http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51255
 
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET FHD	
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET FHD	5.1
 http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51256
 
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH | IN group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET FHD	- BackUp
+http://tamilcuisine.online/api/dialogtv/dialog.php?uid=avinashcs2138_4320155&id=126905
