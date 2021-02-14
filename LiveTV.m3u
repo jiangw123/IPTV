@@ -2,14 +2,17 @@
 
 #EXTINF:-1 tvg-id="Test" tvg-name=Test" group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="Notification",Test Link
 
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://www.thesportsnews.in/wp-content/uploads/2021/01/Abu-Dhabi-T10-League-2021-Squads-and-Players-List-364x205.jpg",FOX 501 HD
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",FOX 501 HD
 http://51.159.4.21:3135/Cric/7/index.m3u8
 
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | HINDI" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND TV FHD	
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | HINDI" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND_TV_FHD	
 http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51255
 
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET FHD	5.1
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET_FHD_5.1
 http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51256
 
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH | IN group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET FHD - BackUp
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH | IN group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET_FHD_BackUp
 http://tamilcuisine.online/api/dialogtv/dialog.php?uid=avinashcs2138_4320155&id=126905
+
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png"parent-code=1234 audio-track="IN",GEMINI_TV_FHD
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51275
