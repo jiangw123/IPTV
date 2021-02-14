@@ -2,10 +2,10 @@
 
 #EXTINF:-1 tvg-id="Test" tvg-name=Test" group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="Notification",Test Link
 
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",HINDI STAR SPORTS 1 FHD	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51240
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",STAR SPORTS HINDI HD 1	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51218
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS STAR SPORTS 1 ENGLISH HD	
+http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=48106
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS STAR SPORTS 1 HINDI HD	
+http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=48105
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",FOX 501 HD
 http://51.159.4.21:3135/Cric/7/index.m3u8
 
