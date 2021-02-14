@@ -1,3 +1,8 @@
 #EXTM3U url-tvg="https://botallen.live/epg.xml"
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="Notification",Test Link
+
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H - VPN Required"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND TV FHD	
+http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51255
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H - VPN Required"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET FHD	
+http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51256
