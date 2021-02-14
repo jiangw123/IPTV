@@ -14,5 +14,8 @@ http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51256
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH | IN group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET_FHD_BackUp
 http://tamilcuisine.online/api/dialogtv/dialog.php?uid=avinashcs2138_4320155&id=126905
 
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png"parent-code=1234 audio-track="IN",GEMINI_TV_FHD
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="http://files.rednetcontent.com"parent-code=1234 audio-track="IN",GEMINI_TV_FHD
 http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51275
+
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU"tvg-logo="http://files.rednetcontent.com"parent-code=1234 audio-track="IN",STAR_MAA_FHD
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51237
