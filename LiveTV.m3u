@@ -10,6 +10,18 @@ http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51218
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7f190eb189a4f60.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",WILLOW_CRIC_HD
 http://51.159.4.21:3135/Cric/8/index.m3u8
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SKY_SPORTS_CRICKET
+http://51.159.4.21:3135/Cric/2/index.m3u8
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SKY_SPORTS_CRICKET_LINK2
+http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_SIX_HD
+http://209.126.120.153/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_TEN_1_HD
+http://209.126.120.153/hls/ten1.m3u8
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_TEN_2_HD
+http://209.126.120.153/hls/ten2.m3u8
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_TEN_3_HD
+http://209.126.120.153/hls/ten3.m3u8
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | HINDI" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND_TV_FHD	
 http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51255
