@@ -73,3 +73,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2705f26aaabdf72.
 
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KANNADA" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",UDAYA_FHD	
 http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51246
+
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/386x386/09zeeteluguzeetelugu.png" group-title="Zee5",Zee Telugu
+http://istreamtv.xyz/api1cdn/zee5/zee5@tv.m3u8?uid=avinashcs2138_4320155&c=0-9-zeetelugu
