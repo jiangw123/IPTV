@@ -36,5 +36,20 @@ http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51214
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SRI_SANKARA
 http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51173
 
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISNEY
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369046
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",NICK_JR
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369048
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISCOVERY_KIDS
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369049
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SONIC_NICKELODEON
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369053
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",NICKELODEON
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369059
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISNEY_JR
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369063
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",POGO
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369099
+
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KANNADA" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",UDAYA_FHD	
 http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51246
