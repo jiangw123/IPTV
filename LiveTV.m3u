@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="Test" tvg-name=Test" group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="Notification",Test Link
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_HD1_ENGLISH	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=48106
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=48106
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_HD1_HINDI	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51218
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51218
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",FOX_501_HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7f190eb189a4f60.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",FOX_501_FHD_BACKUP
@@ -17,38 +17,38 @@ http://51.159.4.21:3135/Cric/2/index.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SKY_SPORTS_CRICKET_LINK2
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_SIX_HD
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=48154
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=48154
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_TEN_1_FHD
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51244
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51244
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_TEN_2_FHD
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51232
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51232
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_TEN_3_HD
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=48162
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=48162
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | HINDI" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND_TV_FHD	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51255
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51255
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET_FHD_5.1
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51256
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51256
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH | IN group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET_FHD_BackUp
 http://tamilcuisine.online/api/dialogtv/dialog.php?uid=avinashcs2138_4320155&id=126905
 
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",GEMINI_TV_FHD
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51275
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51275
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR_MAA_FHD
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51237
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51237
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ETV_FHD	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51262
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51262
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",GEMINI_MUSIC_FHD	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51274
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51274
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR_MAA_MOVIES_FHD	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51238
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51238
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ANDHRA_JYOTI
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51209
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51209
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",TOLLYWOOD
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51214
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51214
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SRI_SANKARA
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51173
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51173
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",TV5
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 
@@ -70,4 +70,4 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2705f26aaabdf72.m3u8
 
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KANNADA" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",UDAYA_FHD	
-http://istreamtv.xyz/api3/tv100/tv100.php?uid=avinashcs2138_4320155&id=51246
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51246
