@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="Test" tvg-name=Test" group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="Notification",Test Link
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_HD1_ENGLISH	
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=48106
+http://attacktv.ddns.net:2052/12345/54321/41901
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_HD1_HINDI	
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51218
+http://attacktv.ddns.net:2052/12345/54321/41902
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_3
 http://103.77.9.118:8000/play/a0b1
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",FOX_501_HD
