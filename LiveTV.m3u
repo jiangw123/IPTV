@@ -30,7 +30,7 @@ http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=48162
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/bda503bf258837e.m3u8
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | HINDI" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND_TV_FHD	
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51255
+http://42.201.130.254:8001/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET_FHD_5.1
 http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51256
