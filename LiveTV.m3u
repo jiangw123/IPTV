@@ -44,9 +44,11 @@ http://attacktv.ddns.net:2052/12345/54321/8061
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR_MAA_GOLD
 http://attacktv.ddns.net:2052/12345/54321/8059
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ETV_FHD	
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51262
+http://attacktv.ddns.net:2052/12345/54321/8055
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",GEMINI_MUSIC_FHD	
 http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51274
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",GEMINI_COMEDY_HD
+http://attacktv.ddns.net:2052/12345/54321/8056
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR_MAA_MOVIES_FHD	
 http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51238
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ANDHRA_JYOTI
@@ -59,6 +61,8 @@ http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51173
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",TV9
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ZEE_TELUGU_FHD
+http://attacktv.ddns.net:2052/12345/54321/8066
 
 #EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISNEY
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369046
