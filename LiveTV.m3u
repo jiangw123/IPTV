@@ -29,60 +29,6 @@ http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=48162
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",ASTRO_CRICKET
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/bda503bf258837e.m3u8
 
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | HINDI" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND_TV_FHD	
-http://42.201.130.254:8001/play/a07s/index.m3u8
-
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET_FHD_5.1
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51256
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH | IN group-title="DTH | D2H | MALAYALAM" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ASIANET_FHD_BackUp
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=avinashcs2138_4320155&id=126905
-
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",GEMINI_TV_FHD
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51275
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR_MAA_FHD
-http://attacktv.ddns.net:2052/12345/54321/8061
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR_MAA_GOLD
-http://attacktv.ddns.net:2052/12345/54321/8059
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ETV_FHD	
-http://attacktv.ddns.net:2052/12345/54321/8055
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",GEMINI_MUSIC_FHD	
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51274
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",GEMINI_COMEDY_HD
-http://attacktv.ddns.net:2052/12345/54321/8056
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR_MAA_MOVIES_FHD	
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51238
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ANDHRA_JYOTI
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51209
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",TOLLYWOOD
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51214
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SRI_SANKARA
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51173
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",TV5
-https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",TV9
-http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | TELUGU" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ZEE_TELUGU_FHD
-http://attacktv.ddns.net:2052/12345/54321/8066
-
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISNEY
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369046
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",NICK_JR
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369048
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISCOVERY_KIDS
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369049
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SONIC_NICKELODEON
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369053
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",NICKELODEON
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369059
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISNEY_JR
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369063
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",POGO
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369099
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KIDS" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",KUSHI_TV_TELUGU
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2705f26aaabdf72.m3u8
-
-#EXTINF:-1 tvg-id="DTH" tvg-name= DTH" group-title="DTH | D2H | KANNADA" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",UDAYA_FHD	
-http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51246
 
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | NEWS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",India Today 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753691
@@ -90,8 +36,8 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753692
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | NEWS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Patrika Tv Rajasthan 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753693
-#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",B4U Movies 		
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753694
+#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",B4U Movies 		
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1954
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Star Plus HD		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753695
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MUSIC "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",B4U Music 		
@@ -140,8 +86,8 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369017
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MISC_CHANNELS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Dangal 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369018
-#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Colors Hd 		
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369019
+#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg",Colors HD 		
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1946
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Colors Cineplex 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369020
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MISC_CHANNELS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",The Q 		
@@ -152,8 +98,8 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369023
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Colors Cineplex Hd 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369024
-#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Zee Tv Hd 		
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369025
+#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg",Zee Tv HD		
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1938
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Zee Anmol Cinema 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369026
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MISC_CHANNELS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Tv5 Monde Asie 		
@@ -462,9 +408,9 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690171
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Star Gold Hd 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690172
-#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg",And Pictures 		
+#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/%26pictures_On_Nahi%2C_Full_On.jpg",And Pictures 		
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1957
-#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/%26TV_HD.jpg",And TV HD 		
+#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/%26TV_HD.jpg",And TV HD 		
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1956
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MISC_CHANNELS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Investigation Discovery 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690173
@@ -494,8 +440,8 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690186
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MISC_CHANNELS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",India Voice 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690187
-#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | NEWS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Aaj Tak Hd 		
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690188
+#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | NEWS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg",Aaj Tak HD 		
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/55356
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | SPORTS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Eurosport 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690189
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MISC_CHANNELS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Imported Stream 206 		
@@ -630,8 +576,8 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369020835
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MALAYALAM "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Surya Movies 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369020836
-#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MALAYALAM "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Surya Tv 		
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369020837
+#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MALAYALAM "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD 		
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/55326
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | KANNADA "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Udaya Movies 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369020838
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MISC_CHANNELS "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",News18 Punjab Haryana Himachal 		
@@ -840,7 +786,7 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369011743
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | KANNADA "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Colors Kannada Cinema 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369011744
-#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MALAYALAM "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Surya Cinema 		
+#EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | HINDI_MOVIES "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Surya Cinema 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369011745
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title="TATASKY | MALAYALAM "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Zee Keralam 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369011746
