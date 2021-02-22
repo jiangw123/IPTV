@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://botallen.live/epg.xml"
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_HD1_ENGLISH	
-http://attacktv.ddns.net:2052/12345/54321/41901
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1893
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_HD1_HINDI	
-http://supersonictv.live:25461/903310/034806/72025
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/55227
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_3
 http://103.77.9.118:8000/play/a0b1
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",FOX_501_HD
