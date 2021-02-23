@@ -17,12 +17,12 @@ http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_SIX_HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2d17d03b443e4b.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg",SONY_TEN_1_FHD
-http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1903
+http://ipflix.click:8080/RovkJqtmEz/wltfr2XphV/3972
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_TEN_2_FHD
 http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=51232
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SONY_TEN_3_HD
 http://istreamtv.xyz/api3/redtv/iptv.php?uid=avinashcs2138_4320155&id=48162
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",ASTRO_CRICKET
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png",ASTRO_CRICKET
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/bda503bf258837e.m3u8
 
 
