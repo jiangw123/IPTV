@@ -3,15 +3,13 @@
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg",SPORTS_STAR_SPORTS_HD1_ENGLISH	
 http://yeahiptv.vip:8080/Wernerkriwett1/xbnfnd8x/3979
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG",SPORTS_STAR_SPORTS_HD1_HINDI	
-http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1893 
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_3
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/55225
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_3 ***
 http://103.77.9.118:8000/play/a0b1
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/FoxCricketHD_Late2018.png",FOX_501_HD
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/61094
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",FOX_501_FHD_BACKUP
-http://51.159.4.21:3135/Cric/7/index.m3u8
-#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",WILLOW_CRIC_HD
-http://51.159.4.21:3135/Cric/8/index.m3u8
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN079WIllowCricket.png",WILLOW_CRIC_HD
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/31569
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SKY_SPORTS_CRICKET
 http://51.159.4.21:3135/Cric/2/index.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SKY_SPORTS_CRICKET_LINK2
