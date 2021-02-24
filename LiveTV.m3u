@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://botallen.live/epg.xml"
 
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg",SPORTS_STAR_SPORTS_HD1_ENGLISH	
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/WZIGDdQLNu/93724
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/8YtZgrqxw0/93724
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG",SPORTS_STAR_SPORTS_HD1_HINDI	
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1893
 #EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_3 ***
@@ -587,7 +587,8 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title=" ODIA "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Zee Odisha 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369020842
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title=" MALAYALAM "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD		
-http://rv.flysat.live:80/307202026125/307202026125/83893
+## http://rv.flysat.live:80/307202026125/307202026125/83893
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/8YtZgrqxw0/93576
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title=" MALAYALAM "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Asianet Movies 		
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369020844
 #EXTINF:-1 tvg-id="" tvg-name="TATA" group-title=" MALAYALAM "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Tata_Sky.png",Asianet Plus 		
@@ -1078,3 +1079,4 @@ http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65504.mkv
 http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65505.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/03d0ede9c1f186137d44ddfe5168c601.jpg" group-title="Arrow - English",Arrow S08 E09
 http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65506.mkv
+
