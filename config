@@ -1,3 +1,5 @@
+[http]
+    sslVerify = false
 [remote "origin"]
 	url = git@github.com:avinashcs2138/IPTV.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
