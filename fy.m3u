@@ -441,7 +441,7 @@ http://192.168.100.1:35455/rptv/xzgg.m3u8
 http://192.168.100.1:35455/rptv/G_XZXYTV-3.m3u8
 #EXTINF:-1,tvg-id="徐州电视台" tvg-name="徐州电视台" tvg-logo="https://epg.v1.mk/logo/徐州电视台.png" group-title="rptv",徐州沛县新闻综合
 http://192.168.100.1:35455/rptv/xzpxxwzh.m3u8
-#EXTINF:-1,tvg-id="徐州电视台" tvg-name="徐州电视台" tvg-logo="https://http://192.168.100.1:35455/rptv/GITV-JS-50.m3u81.mk/logo/徐州电视台.png" group-title="rptv",徐州沛县综艺
+#EXTINF:-1,tvg-id="徐州电视台" tvg-name="徐州电视台" tvg-logo="https://epg.v1.mk/logo/徐州电视台.png" group-title="rptv",徐州沛县综艺
 http://192.168.100.1:35455/rptv/xzpxzy.m3u8
 #EXTINF:-1,tvg-id="徐州电视台" tvg-name="徐州电视台" tvg-logo="https://epg.v1.mk/logo/徐州电视台.png" group-title="rptv",徐州沛县生活
 http://192.168.100.1:35455/rptv/xzpxsh.m3u8
