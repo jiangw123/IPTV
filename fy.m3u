@@ -2,15 +2,15 @@
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K8K频道",CCTV-16-4K-HEVC
 http://192.168.100.1:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="4K8K频道",cctv1-4K-rptv
-http://192.168.100.1:35455/rptv/G_CCTV-1-AVS-4K264.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="4K8K频道",cctv3-4K-rptv
-http://192.168.100.1:35455/rptv/G_CCTV-3-AVS-4K264.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="4K8K频道",cctv5-4K-rptv
-http://192.168.100.1:35455/rptv/G_CCTV-5-AVS-4K264.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="4K8K频道",cctv6-4K-rptv
-http://192.168.100.1:35455/rptv/G_CCTV-6-AVS-4K264.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="4K8K频道",cctv8-4K-rptv
-http://192.168.100.1:35455/rptv/G_CCTV-8-AVS-4K264.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="4K8K频道",cctv8k_36m
 http://192.168.100.1:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K8K频道",cctv164k_10m
@@ -18,13 +18,13 @@ http://192.168.100.1:35455/gaoma/cctv4k16_10m.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K8K频道",cctv164k
 http://192.168.100.1:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K8K频道",cctv16-4K-rptv
-http://192.168.100.1:35455/rptv/G_CCTV-16-4K.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4K8K频道",cctv4k_10m
 http://192.168.100.1:35455/gaoma/cctv4k_10m.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4K8K频道",cctv4k
 http://192.168.100.1:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4K8K频道",cctv4k-rptv
-http://192.168.100.1:35455/rptv/G_CCTV-4K-HD.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-4K-HD.m3u8?license=gitv
 #EXTINF:-1,tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4K8K频道",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="4K8K频道",cctv8k_120m
@@ -36,7 +36,7 @@ http://192.168.100.1:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="4K8K频道",纯享4K-rptv
 http://192.168.100.1:35455/rptv/HD-20M-2160P-chunxiang4k.m3u8?pt=cntv
 #EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="4K8K频道",4K超高清-rptv
-http://192.168.100.1:35455/rptv/miguaoyun01-AVS-4K01.m3u8?
+http://192.168.100.1:35455/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
 #EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4K8K频道",咪咕4K-1
 http://192.168.100.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4K8K频道",咪咕4K-2
@@ -372,39 +372,39 @@ http://192.168.100.1:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?pt=cntv
 #EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="rptv",凤凰卫视香港
 http://192.168.100.1:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?pt=cntv
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="rptv",世界地理
-http://192.168.100.1:35455/rptv/G_SHIJIEDL-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="rptv",风云剧场
-http://192.168.100.1:35455/rptv/G_FENGYUNJC-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="rptv",风云足球
-http://192.168.100.1:35455/rptv/G_FENGSHANGZQ-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="rptv",风云音乐
-http://192.168.100.1:35455/rptv/G_FENGYUNYY-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/兵器科技.png" group-title="rptv",兵器科技
-http://192.168.100.1:35455/rptv/G_BINGQIKJ-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="rptv",央视台球
-http://192.168.100.1:35455/rptv/G_TAIQIU-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="rptv",高尔夫网球
-http://192.168.100.1:35455/rptv/G_CCTV-GOLF-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="rptv",女性时尚
-http://192.168.100.1:35455/rptv/G_NVXINGSS-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_NVXINGSS-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="rptv",电视指南
-http://192.168.100.1:35455/rptv/G_DIANSHIZN-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_DIANSHIZN-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="rptv",第一剧场
-http://192.168.100.1:35455/rptv/G_DIYIJC-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="rptv",怀旧剧场
-http://192.168.100.1:35455/rptv/G_HUAIJIUJC-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="rptv",央视文化精品
-http://192.168.100.1:35455/rptv/G_CCTV-WENHUA-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="CETV早期教育" tvg-name="CETV早期教育" tvg-logo="https://epg.v1.mk/logo/CETV早期教育.png" group-title="rptv",CETV早期教育
-http://192.168.100.1:35455/rptv/G_CETV-ZQJY-CQ.m3u8
+http://192.168.100.1:35455/rptv/G_CETV-ZQJY-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="rptv",纯享4K
 http://192.168.100.1:35455/rptv/HD-20M-2160P-chunxiang4k.m3u8
 #EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="rptv",4K超高清
-http://192.168.100.1:35455/rptv/miguaoyun01-AVS-4K01.m3u8
+http://192.168.100.1:35455/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
 #EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="rptv",睛彩篮球
 http://192.168.100.1:35455/rptv/HD-8000k-1080P-miguaoyun1.m3u8
 #EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="rptv",高清臻享睛彩竞技
-http://192.168.100.1:35455/rptv/miguaoyun1-AVS.m3u8
+http://192.168.100.1:35455/rptv/miguaoyun1-AVS.m3u8?license=gitv
 #EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="rptv",睛彩竞技
 http://192.168.100.1:35455/rptv/HD-8000k-1080P-miguaoyun2.m3u8
 #EXTINF:-1,tvg-id="H睛彩中原" tvg-name="H睛彩中原" tvg-logo="https://epg.v1.mk/logo/H睛彩中原.png" group-title="rptv",睛彩中原
@@ -414,21 +414,21 @@ http://192.168.100.1:35455/rptv/HD-8000k-1080P-Supermovie.m3u8
 #EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="rptv",newtv炫舞未来
 http://192.168.100.1:35455/rptv/HD-4000k-1080P-xwwl.m3u8
 #EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻综合.png" group-title="rptv",南京新闻综合
-http://192.168.100.1:35455/rptv/G_NJXW.m3u8
+http://192.168.100.1:35455/rptv/G_NJXW.m3u8?license=gitv
 #EXTINF:-1,tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://epg.v1.mk/logo/南京影视.png" group-title="rptv",南京影视
-http://192.168.100.1:35455/rptv/G_NJYS.m3u8
+http://192.168.100.1:35455/rptv/G_NJYS.m3u8?license=gitv
 #EXTINF:-1,tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://epg.v1.mk/logo/南京少儿.png" group-title="rptv",南京少儿
-http://192.168.100.1:35455/rptv/G_NJSE.m3u8
+http://192.168.100.1:35455/rptv/G_NJSE.m3u8?license=gitv
 #EXTINF:-1,tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://epg.v1.mk/logo/南京生活.png" group-title="rptv",南京生活
-http://192.168.100.1:35455/rptv/G_NJSH.m3u8
+http://192.168.100.1:35455/rptv/G_NJSH.m3u8?license=gitv
 #EXTINF:-1,tvg-id="南京信息" tvg-name="南京信息" tvg-logo="https://epg.v1.mk/logo/南京信息.png" group-title="rptv",南京信息
-http://192.168.100.1:35455/rptv/G_NJXX.m3u8
-#EXTINF:-1,tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://epg.v1.mk/logo/南京娱乐.png" group-title="rptv",南京娱乐
-http://192.168.100.1:35455/rptv/G_NJYL.m3u8
+http://192.168.100.1:35455/rptv/G_NJXX.m3u8?license=gitv
+#EXTINF:-1,tvg-id="南京文旅" tvg-name="南京文旅" tvg-logo="https://epg.v1.mk/logo/南京文旅.png" group-title="rptv",南京文旅
+http://192.168.100.1:35455/rptv/G_NJYL.m3u8?license=gitv
 #EXTINF:-1,tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://epg.v1.mk/logo/南京教科.png" group-title="rptv",南京教科
-http://192.168.100.1:35455/rptv/G_NJJK.m3u8
+http://192.168.100.1:35455/rptv/G_NJJK.m3u8?license=gitv
 #EXTINF:-1,tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://epg.v1.mk/logo/南京十八.png" group-title="rptv",南京十八
-http://192.168.100.1:35455/rptv/G_NJSB.m3u8
+http://192.168.100.1:35455/rptv/G_NJSB.m3u8?license=gitv
 #EXTINF:-1,tvg-id="徐州电视台" tvg-name="徐州电视台" tvg-logo="https://epg.v1.mk/logo/徐州电视台.png" group-title="rptv",徐州新闻综合
 http://192.168.100.1:35455/rptv/xzxwzh.m3u8
 #EXTINF:-1,tvg-id="徐州电视台" tvg-name="徐州电视台" tvg-logo="https://epg.v1.mk/logo/徐州电视台.png" group-title="rptv",徐州经济生活
@@ -466,15 +466,15 @@ http://192.168.100.1:35455/rptv/jsntertao.m3u8
 #EXTINF:-1,tvg-id="伊春公共" tvg-name="伊春公共" tvg-logo="https://epg.v1.mk/logo/伊春公共.png" group-title="rptv",伊春公共
 http://192.168.100.1:35455/rptv/jsntsantao.m3u8
 #EXTINF:-1,tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://epg.v1.mk/logo/镇江新闻综合.png" group-title="rptv",镇江一套
-http://192.168.100.1:35455/rptv/G_ZHENJIANGTV-1.m3u8
+http://192.168.100.1:35455/rptv/G_ZHENJIANGTV-1.m3u8?license=gitv
 #EXTINF:-1,tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://epg.v1.mk/logo/镇江新闻综合.png" group-title="rptv",镇江二套
-http://192.168.100.1:35455/rptv/G_ZHENJIANGTV-2.m3u8
+http://192.168.100.1:35455/rptv/G_ZHENJIANGTV-2.m3u8?license=gitv
 #EXTINF:-1,tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://epg.v1.mk/logo/镇江新闻综合.png" group-title="rptv",镇江三套
-http://192.168.100.1:35455/rptv/G_ZHENJIANGTV-3.m3u8
+http://192.168.100.1:35455/rptv/G_ZHENJIANGTV-3.m3u8?license=gitv
 #EXTINF:-1,tvg-id="宿豫综合" tvg-name="宿豫综合" tvg-logo="https://epg.v1.mk/logo/宿豫综合.png" group-title="rptv",宿迁综合
-http://192.168.100.1:35455/rptv/G_SQZH.m3u8
+http://192.168.100.1:35455/rptv/G_SQZH.m3u8?license=gitv
 #EXTINF:-1,tvg-id="宿豫综合" tvg-name="宿豫综合" tvg-logo="https://epg.v1.mk/logo/宿豫综合.png" group-title="rptv",宿迁公共
-http://192.168.100.1:35455/rptv/G_SQGG.m3u8
+http://192.168.100.1:35455/rptv/G_SQGG.m3u8?license=gitv
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",邳州综合
 http://192.168.100.1:35455/rptv/pzzonghe.m3u8
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",邳州综艺
@@ -512,97 +512,97 @@ http://192.168.100.1:35455/rptv/COSHD-4000k-1080P-dncss.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.v1.mk/logo/梨园.png" group-title="rptv",梨园经典荟萃
 http://192.168.100.1:35455/rptv/COSHD-4000k-1080P-lyjdhc.m3u8
 #EXTINF:-1,tvg-id="IPTV影视剧" tvg-name="IPTV影视剧" tvg-logo="https://epg.v1.mk/logo/IPTV影视剧.png" group-title="rptv",影视剧场
-http://192.168.100.1:35455/rptv/GITV-JS-1.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-1.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="rptv",第一院线
-http://192.168.100.1:35455/rptv/GITV-JS-2.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-2.m3u8?license=gitv
 #EXTINF:-1,tvg-id="HGTV居家乐活" tvg-name="HGTV居家乐活" tvg-logo="https://epg.v1.mk/logo/HGTV居家乐活.png" group-title="rptv",居家健身
-http://192.168.100.1:35455/rptv/GITV-JS-4.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-4.m3u8?license=gitv
 #EXTINF:-1,tvg-id="电视剧频道" tvg-name="电视剧频道" tvg-logo="https://epg.v1.mk/logo/电视剧频道.png" group-title="rptv",电视剧
-http://192.168.100.1:35455/rptv/GITV-JS-6.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-6.m3u8?license=gitv
 #EXTINF:-1,tvg-id="[TW-II]503戲劇二台" tvg-name="[TW-II]503戲劇二台" tvg-logo="https://epg.v1.mk/logo/[TW-II]503戲劇二台.png" group-title="rptv",二更视频
-http://192.168.100.1:35455/rptv/GITV-JS-7.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-7.m3u8?license=gitv
 #EXTINF:-1,tvg-id="DW德国之声" tvg-name="DW德国之声" tvg-logo="https://epg.v1.mk/logo/DW德国之声.png" group-title="rptv",德凯奥特曼
-http://192.168.100.1:35455/rptv/GITV-JS-9.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-9.m3u8?license=gitv
 #EXTINF:-1,tvg-id="NEWTV熊猫生活" tvg-name="NEWTV熊猫生活" tvg-logo="https://epg.v1.mk/logo/NEWTV熊猫生活.png" group-title="rptv",熊出没
-http://192.168.100.1:35455/rptv/GITV-JS-10.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-10.m3u8?license=gitv
 #EXTINF:-1,tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://epg.v1.mk/logo/newtv超级体育.png" group-title="rptv",超级飞侠
-http://192.168.100.1:35455/rptv/GITV-JS-11.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-11.m3u8?license=gitv
 #EXTINF:-1,tvg-id="小猪佩奇" tvg-name="小猪佩奇" tvg-logo="https://epg.v1.mk/logo/小猪佩奇.png" group-title="rptv",小猪佩奇
-http://192.168.100.1:35455/rptv/GITV-JS-12.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-12.m3u8?license=gitv
 #EXTINF:-1,tvg-id="贾汪新闻" tvg-name="贾汪新闻" tvg-logo="https://epg.v1.mk/logo/贾汪新闻.png" group-title="rptv",汪汪队立大功
-http://192.168.100.1:35455/rptv/GITV-JS-13.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-13.m3u8?license=gitv
 #EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="rptv",高分电影
-http://192.168.100.1:35455/rptv/GITV-JS-14.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-14.m3u8?license=gitv
 #EXTINF:-1,tvg-id="中国乡村之声" tvg-name="中国乡村之声" tvg-logo="https://epg.v1.mk/logo/中国乡村之声.png" group-title="rptv",乡村爱情
-http://192.168.100.1:35455/rptv/GITV-JS-15.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-15.m3u8?license=gitv
 #EXTINF:-1,tvg-id="热门综艺高清专区" tvg-name="热门综艺高清专区" tvg-logo="https://epg.v1.mk/logo/热门综艺高清专区.png" group-title="rptv",热门综艺
-http://192.168.100.1:35455/rptv/GITV-JS-16.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-16.m3u8?license=gitv
 #EXTINF:-1,tvg-id="ASIANFOODNETWORK亚洲美食" tvg-name="ASIANFOODNETWORK亚洲美食" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK亚洲美食.png" group-title="rptv",美食美味
-http://192.168.100.1:35455/rptv/GITV-JS-17.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-17.m3u8?license=gitv
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.v1.mk/logo/爱自然.png" group-title="rptv",自然风景
-http://192.168.100.1:35455/rptv/GITV-JS-18.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-18.m3u8?license=gitv
 #EXTINF:-1,tvg-id="动物世界" tvg-name="动物世界" tvg-logo="https://epg.v1.mk/logo/动物世界.png" group-title="rptv",动物世界
-http://192.168.100.1:35455/rptv/GITV-JS-19.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-19.m3u8?license=gitv
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="rptv",书籍解读
-http://192.168.100.1:35455/rptv/GITV-JS-20.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-20.m3u8?license=gitv
 #EXTINF:-1,tvg-id="MOMO亲子" tvg-name="MOMO亲子" tvg-logo="https://epg.v1.mk/logo/MOMO亲子.png" group-title="rptv",亲子玩具
-http://192.168.100.1:35455/rptv/GITV-JS-21.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-21.m3u8?license=gitv
 #EXTINF:-1,tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://epg.v1.mk/logo/晴彩广场舞.png" group-title="rptv",广场舞
-http://192.168.100.1:35455/rptv/GITV-JS-22.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-22.m3u8?license=gitv
 #EXTINF:-1,tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="https://epg.v1.mk/logo/CCTV-11戏曲.png" group-title="rptv",戏曲音乐
-http://192.168.100.1:35455/rptv/GITV-JS-23.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-23.m3u8?license=gitv
 #EXTINF:-1,tvg-id="IPTV相声小品" tvg-name="IPTV相声小品" tvg-logo="https://epg.v1.mk/logo/IPTV相声小品.png" group-title="rptv",相声联欢
-http://192.168.100.1:35455/rptv/GITV-JS-24.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-24.m3u8?license=gitv
 #EXTINF:-1,tvg-id="bestv青春动漫" tvg-name="bestv青春动漫" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="rptv",动漫星空
-http://192.168.100.1:35455/rptv/GITV-JS-25.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-25.m3u8?license=gitv
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",楚乔传
-http://192.168.100.1:35455/rptv/GITV-JS-26.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-26.m3u8?license=gitv
 #EXTINF:-1,tvg-id="NEWTV完美游戏" tvg-name="NEWTV完美游戏" tvg-logo="https://epg.v1.mk/logo/NEWTV完美游戏.png" group-title="rptv",完美的她
-http://192.168.100.1:35455/rptv/GITV-JS-27.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-27.m3u8?license=gitv
 #EXTINF:-1,tvg-id="哈尔滨娱乐A" tvg-name="哈尔滨娱乐A" tvg-logo="https://epg.v1.mk/logo/哈尔滨娱乐A.png" group-title="rptv",哈尔滨一九四四
-http://192.168.100.1:35455/rptv/GITV-JS-28.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-28.m3u8?license=gitv
 #EXTINF:-1,tvg-id="CCTV-7军事" tvg-name="CCTV-7军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7军事.png" group-title="rptv",军事之旅
-http://192.168.100.1:35455/rptv/GITV-JS-29.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-29.m3u8?license=gitv
 #EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="rptv",科幻世界
-http://192.168.100.1:35455/rptv/GITV-JS-30.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-30.m3u8?license=gitv
 #EXTINF:-1,tvg-id="NICKELODEONASIA(尼克儿童)" tvg-name="NICKELODEONASIA(尼克儿童)" tvg-logo="https://epg.v1.mk/logo/NICKELODEONASIA(尼克儿童).png" group-title="rptv",儿童天地
-http://192.168.100.1:35455/rptv/GITV-JS-31.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-31.m3u8?license=gitv
 #EXTINF:-1,tvg-id="纪录片" tvg-name="纪录片" tvg-logo="https://epg.v1.mk/logo/纪录片.png" group-title="rptv",纪录片
-http://192.168.100.1:35455/rptv/GITV-JS-32.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-32.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv15音乐" tvg-name="cctv15音乐" tvg-logo="https://epg.v1.mk/logo/cctv15音乐.png" group-title="rptv",音乐心情
-http://192.168.100.1:35455/rptv/GITV-JS-33.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-33.m3u8?license=gitv
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",掼蛋频道
-http://192.168.100.1:35455/rptv/GITV-JS-34.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-34.m3u8?license=gitv
 #EXTINF:-1,tvg-id="BTV体育休闲" tvg-name="BTV体育休闲" tvg-logo="https://epg.v1.mk/logo/BTV体育休闲.png" group-title="rptv",体坛同期声
-http://192.168.100.1:35455/rptv/GITV-JS-35.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-35.m3u8?license=gitv
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",臻享推荐
-http://192.168.100.1:35455/rptv/GITV-JS-36.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-36.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv-怀旧剧场" tvg-name="cctv-怀旧剧场" tvg-logo="https://epg.v1.mk/logo/cctv-怀旧剧场.png" group-title="rptv",怀旧MTV
-http://192.168.100.1:35455/rptv/GITV-JS-37.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-37.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv-电视指南" tvg-name="cctv-电视指南" tvg-logo="https://epg.v1.mk/logo/cctv-电视指南.png" group-title="rptv",南来北往
-http://192.168.100.1:35455/rptv/GITV-JS-39.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-39.m3u8?license=gitv
 #EXTINF:-1,tvg-id="AKC狗狗宠物" tvg-name="AKC狗狗宠物" tvg-logo="https://epg.v1.mk/logo/AKC狗狗宠物.png" group-title="rptv",狗剩快跑
-http://192.168.100.1:35455/rptv/GITV-JS-40.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-40.m3u8?license=gitv
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",狂飙
-http://192.168.100.1:35455/rptv/GITV-JS-41.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-41.m3u8?license=gitv
 #EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="rptv",人世间
-http://192.168.100.1:35455/rptv/GITV-JS-42.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-42.m3u8?license=gitv
 #EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="rptv",大江大河
-http://192.168.100.1:35455/rptv/GITV-JS-43.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-43.m3u8?license=gitv
 #EXTINF:-1,tvg-id="NewTV山东" tvg-name="NewTV山东" tvg-logo="https://epg.v1.mk/logo/NewTV山东.png" group-title="rptv",山海情
-http://192.168.100.1:35455/rptv/GITV-JS-44.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-44.m3u8?license=gitv
 #EXTINF:-1,tvg-id="冰火" tvg-name="冰火" tvg-logo="https://epg.v1.mk/logo/冰火.png" group-title="rptv",冰雪竞技场
-http://192.168.100.1:35455/rptv/GITV-JS-45.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-45.m3u8?license=gitv
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",邪恶与疯狂
-http://192.168.100.1:35455/rptv/GITV-JS-46.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-46.m3u8?license=gitv
 #EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="rptv",来自星星的你
-http://192.168.100.1:35455/rptv/GITV-JS-47.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-47.m3u8?license=gitv
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",哦我的鬼神大人
-http://192.168.100.1:35455/rptv/GITV-JS-48.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-48.m3u8?license=gitv
 #EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="rptv",太阳的后裔
-http://192.168.100.1:35455/rptv/GITV-JS-49.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-49.m3u8?license=gitv
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="rptv",请回答1988
-http://192.168.100.1:35455/rptv/GITV-JS-50.m3u8
+http://192.168.100.1:35455/rptv/GITV-JS-50.m3u8?license=gitv
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
 https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
