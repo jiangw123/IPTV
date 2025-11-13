@@ -1,126 +1,68 @@
-#EXTINF:-1 tvg-logo="https://logoeuropa.xyz/russia/channel-one-ru.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | RUSSIA 1 HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493501&extension=ts
-#EXTINF:-1 tvg-logo="https://logoeuropa.xyz/russia/channel-one-ru.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | RUSSIA 1
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493500&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/Perwykanalogo.png" group-title="RU | RUSSIA ᵛᶦᵖ",PERVIY KANAL FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493499&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/S_N2d4.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | PERVYJ KANAL HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493498&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/Perwykanalogo.png" group-title="RU | RUSSIA ᵛᶦᵖ",PERVIY KANAL HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493497&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/Perwykanalogo.png" group-title="RU | RUSSIA ᵛᶦᵖ",PERVIY KANAL EUROPE FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493496&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/p%D0%95%D0%9D_%D0%A2%D0%92.png" group-title="RU | RUSSIA ᵛᶦᵖ",PEH TB FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493495&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/Rossiya-K.png" group-title="RU | RUSSIA ᵛᶦᵖ",RUSSIA K FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493494&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/rutv.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU TV HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493493&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/RTVI_Logo.png" group-title="RU | RUSSIA ᵛᶦᵖ",RTVI FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493492&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/retrotv.png" group-title="RU | RUSSIA ᵛᶦᵖ",RETRO TV HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493491&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/rentv.png" group-title="RU | RUSSIA ᵛᶦᵖ",REN TV HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493490&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/tv8kanal.png" group-title="RU | RUSSIA ᵛᶦᵖ",8 KANAL RU FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493489&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/fivecalan.png" group-title="RU | RUSSIA ᵛᶦᵖ",5 KANAL RU FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493488&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/ZARGONI.png" group-title="RU | RUSSIA ᵛᶦᵖ",ZAGORODNIY FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493487&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/zagorodnaya-zhizn-ru.png" group-title="RU | RUSSIA ᵛᶦᵖ",ZAGORODNAYA ZHIZN FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493486&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/ktoceto.png" group-title="RU | RUSSIA ᵛᶦᵖ",KTO EST KTO FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493485&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/ktn.png" group-title="RU | RUSSIA ᵛᶦᵖ",KTNO TV FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493484&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/kirktv.png" group-title="RU | RUSSIA ᵛᶦᵖ",KRIK TV FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493483&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/KHL.png" group-title="RU | RUSSIA ᵛᶦᵖ",KHL HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493482&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/KHL.png" group-title="RU | RUSSIA ᵛᶦᵖ",KHL FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493481&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",TV 3
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493480&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/tnt_ru.jpg" group-title="RU | RUSSIA ᵛᶦᵖ",TNT FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493479&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/tnt_ru.jpg" group-title="RU | RUSSIA ᵛᶦᵖ",TNT FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493478&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/tnt_ru.jpg" group-title="RU | RUSSIA ᵛᶦᵖ",TNT HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493477&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/gBokU5i.png" group-title="RU | RUSSIA ᵛᶦᵖ",TNT 4 FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493476&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",TNT4
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493475&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/russia_logo/TNTSEVEN.png" group-title="RU | RUSSIA ᵛᶦᵖ",TNT +7 FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493474&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/WhUeRYqbM.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | НТВ HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493473&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/WhUeRYqbM.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | НТВ +2
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493472&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/WhUeRYqbM.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | НТВ +4
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493471&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/WhUeRYqbM.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | НТВ +6
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493470&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/WhUeRYqbM.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | НТВ +8
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493469&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/WhUeRYqbM.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | НТВ Право
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493468&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/WhUeRYqbM.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | НТВ Стиль
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493467&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/u7sXGEOyJ5_U.webp" group-title="RU | RUSSIA ᵛᶦᵖ",RU | THT HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493466&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/xA4Xkj_mCbN.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU : REN TV
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493465&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/xgflPaHA.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | RU TV
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493464&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Россия 1 +2
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493463&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Пятница +2
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493462&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",Пятница +6
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493461&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Россия 1 +4
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493460&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Россия 1 +6
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493459&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Россия 1 +8
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493458&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Россия К
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493457&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5oQTCezaFps.jpg" group-title="RU | RUSSIA ᵛᶦᵖ",RU | 8 KANAL RU
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493456&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/Tt-J6x4.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Санкт‑Петербург
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493455&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/Je2Hv4DiahAr.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Сарафан
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493454&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/XDRIiT.jpeg" group-title="RU | RUSSIA ᵛᶦᵖ",RU | КВН ТВ
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493453&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/LhpBsrJZ1b.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | КтоКуда
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493452&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/GXv8lTc-Z0_f.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Наша Тема HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493451&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Наша Тема HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493450&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/tYGfy-sk.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | ЗВЕЗДА Плюс
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493449&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/hjP76T5FXDEI.webp" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Радость моя
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493448&extension=ts
-#EXTINF:-1 tvg-logo="http://tvdealers.de/images/chIcons/724.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | ЗВЕЗДА Плюс
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493447&extension=ts
-#EXTINF:-1 tvg-logo="http://tvdealers.de/images/chIcons/413.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Пятница
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493446&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/xA4Xkj_mCbN.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | РЕН ТВ FHD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493445&extension=ts
-#EXTINF:-1 tvg-logo="http://tvdealers.de/images/chIcons/370.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | ТНТ
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493444&extension=ts
-#EXTINF:-1 tvg-logo="http://tvdealers.de/images/chIcons/394.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Москва 24
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493443&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/aFyV48ZBG.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | МИР 24
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493442&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/voB3mz9xZ.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU | Москва 24
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493441&extension=ts
-#EXTINF:-1 tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/ntvhd.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU| NTV FHD
+千禧经典 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+星河 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+翡翠 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+黄金翡翠 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+J2 TVOD，http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+广东珠江 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+美亚电影粤 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+凤凰卫视 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+香港卫视 TVOD,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+重温经典 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+prima TVOD，http://php.jdshipin.com/TVOD/iptv.php?id=aod
+翡翠台4K TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+千禧经典台 smt,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+星河频道 smt,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+华丽台 smt,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+无线翡翠台 smt,http://php.jdshipin.com/smt.php?id=jade_twn
+无线新闻 smt,http://php.jdshipin.com/smt.php?id=inews_twn
+TVB翡翠台v2,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+TVB星河v2,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+TVB亚洲武侠v2,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+TVB娱乐新闻台v2,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
+TVB无线新闻台v2,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+TVB无线直播v2,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
+千禧经典台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+华丽台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+翡翠台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+无线新闻台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+星河频道,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB功夫台,https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+香港电台33频道https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+香港电台34https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+香港电台35https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+澳门Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+澳视澳门,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳门葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳门体育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳门综艺,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+tvod翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+tvod翡翠台2,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+tvod翡翠台3,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+tvod翡翠台4,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+tvod翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+tvodTVB J1，http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+tvodTVB Plus，http://php.jdshipin.com/TVOD/iptv.php?id=j2
+tvodTVB Plus2，http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+tvodVIUTV，http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+tvodVIUTV2，http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+tvodHOY TV，http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+tvodHOY TV2，http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+tvod凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+tvod凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+tvod凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+tvod凤凰资讯2,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+tvod凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+tvod凤凰香港2,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+tvod美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+tvod重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+tvod广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+tvod广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+tvod澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+tvod澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as#EXTINF:-1 tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/ntvhd.png" group-title="RU | RUSSIA ᵛᶦᵖ",RU| NTV FHD
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493440&extension=ts
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/IPOg_NqZBJL.jpeg" group-title="RU | RUSSIA ᵛᶦᵖ",RU | 360° HD+
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:F5:25:B3&stream=493439&extension=ts
