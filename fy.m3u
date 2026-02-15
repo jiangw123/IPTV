@@ -1,5 +1,17 @@
-#EXTINF:-1 tvg-id="cm_plus.sg" tvg-name="CM+" tvg-logo="http://content.stream-link.org/images/cm_plus.png" group-title="电影",CM+ 
+#EXTINF:-1 tvg-id="cm_plus.sg" tvg-name="CM+" tvg-logo="http://content.stream-link.org/images/cm_plus.png" group-title="亚洲精选",CM+ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=894eb4c6b699404a9970442407db3cb0:d08b04ab49f600f24b9f72892ab13ac0 
+#KODIPROP:inputstream.adaptive.license_key=894eb4c6b699404a9970442407db3cb0:d08b04ab49f600f24b9f72892ab13ac0
 https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6571/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CELESTIAL" tvg-name="CELESTIAL" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210926/20210926030715748ltd.png" group-title="亚洲精选",Celestial Movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7979f2bda9e1416e8eb618d18ffd2be0:3562e534372dda0c17561bc9bfb0d066
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5585/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 group-title="亚洲精选" tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png“，CCM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec66be1327d94e9196f3d16d8aba5d2f:2ea9ef451ac308197e7613684c3bc83f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5580/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
