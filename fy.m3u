@@ -10,7 +10,7 @@ https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/
 #KODIPROP:inputstream.adaptive.license_key=7979f2bda9e1416e8eb618d18ffd2be0:3562e534372dda0c17561bc9bfb0d066
 https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5585/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 
-#EXTINF:-1 group-title="亚洲精选" tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png“，CCM
+#EXTINF:-1 group-title="亚洲精选" tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",CCM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec66be1327d94e9196f3d16d8aba5d2f:2ea9ef451ac308197e7613684c3bc83f
